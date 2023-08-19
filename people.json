@@ -40,7 +40,7 @@
       "id": 5,
       "name": "Elba Surero",
       "age": 33,
-      "sex": "Femail",
+      "sex": "Female",
       "image": "https://www.pngmart.com/files/22/Celebrity-PNG-Image.png",
       "location": "Narnia",
       "isFriend": true
@@ -76,7 +76,7 @@
       "id": 9,
       "name": "Kayle Jenner",
       "age": 22,
-      "sex": "Femail",
+      "sex": "Female",
       "image": "https://www.pngmart.com/files/22/Kylie-Jenne-PNG-HD.png",
       "location": "Volantis",
       "isFriend": false
