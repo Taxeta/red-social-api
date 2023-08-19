@@ -34,7 +34,7 @@
       "sexo": "Mail",
       "image": "https://www.pngmart.com/files/22/Benjamin-Franklin-PNG-Picture.png",
       "location": "Atlántida",
-      "used": true
+      "isFriend": true
     },
     {
       "id": 5,
