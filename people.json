@@ -23,7 +23,7 @@
       "name": "Jamie Foxx",
       "age": 55,
       "sex": "Male",
-      "image": "https://www.pngmart.com/files/22/Denzel-Washington-PNG-File.png",
+      "image": "https://www.pngmart.com/files/22/Jamie-Foxx-PNG-HD.png",
       "location": "Wakanda",
       "isFriend": false
     },
@@ -32,7 +32,7 @@
       "name": "Donald Trump",
       "age": 77,
       "sex": "Male",
-      "image": "https://www.pngmart.com/files/22/Trump-PNG-Pic.png",
+      "image": "https://www.pngmart.com/files/22/Trump-PNG-Isolated-Pic.png",
       "location": "Atlántida",
       "isFriend": true
     },
@@ -59,7 +59,7 @@
       "name": "Bill Puertas",
       "age": 67,
       "sex": "Male",
-      "image": "https://www.pngmart.com/files/17/Bill-Gates-Face-Transparent-PNG.png",
+      "image": "https://www.pngmart.com/files/22/Bill-Gates-PNG-HD.png",
       "location": "Myr",
       "isFriend": true
     },
@@ -86,7 +86,7 @@
       "name": "Boris Johnson",
       "age": 59,
       "sex": "Male",
-      "image": "https://www.pngmart.com/files/22/Boris-Johnson-PNG-Transparent.png",
+      "image": "https://www.pngmart.com/files/22/Boris-Johnson-PNG.png",
       "location": "Mordor",
       "isFriend": true
     }
